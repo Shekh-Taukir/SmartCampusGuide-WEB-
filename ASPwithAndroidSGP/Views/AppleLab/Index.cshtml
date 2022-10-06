@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ASPwithAndroidSGP.Models.Lab>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.labId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.head)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.body)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.photoUrl)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.labId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.head)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.body)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.photoUrl)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.labId}) |
+                    @Html.ActionLink("Details", "Details", new {id=item.labId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.labId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

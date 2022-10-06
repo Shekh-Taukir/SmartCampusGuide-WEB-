@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASPwithAndroidSGP
+build_property.RootNamespace = ASPwithAndroidSGP
+build_property.ProjectDir = D:\CSE Folder\7CSE-2\SGP\Main Working Code SGP\WEb\ASPwithAndroidSGP\ASPwithAndroidSGP\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\CSE Folder\7CSE-2\SGP\Main Working Code SGP\WEb\ASPwithAndroidSGP\ASPwithAndroidSGP
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/AppleLab/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGVMYWJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/AppleLab/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGVMYWJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/AppleLab/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGVMYWJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/AppleLab/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGVMYWJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/SophosLab/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29waG9zTGFiXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/SophosLab/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29waG9zTGFiXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/SophosLab/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29waG9zTGFiXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/SophosLab/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29waG9zTGFiXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/SophosRack/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29waG9zUmFja1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/SophosRack/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29waG9zUmFja1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/SophosRack/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29waG9zUmFja1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/SophosRack/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29waG9zUmFja1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/VirtualRealityLab/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlydHVhbFJlYWxpdHlMYWJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/VirtualRealityLab/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlydHVhbFJlYWxpdHlMYWJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/VirtualRealityLab/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlydHVhbFJlYWxpdHlMYWJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/VirtualRealityLab/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlydHVhbFJlYWxpdHlMYWJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE Folder/7CSE-2/SGP/Main Working Code SGP/WEb/ASPwithAndroidSGP/ASPwithAndroidSGP/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-80uim9shng
